@@ -1,5 +1,7 @@
 # Twitter API Mockup - Stage 1
 
+Stage 1: Microservices and Load Balancing
+
 Developers: Bryan Mendoza-Trejo, Eduardo Gomez, Cristian Rodriguez
 
 Project Description
