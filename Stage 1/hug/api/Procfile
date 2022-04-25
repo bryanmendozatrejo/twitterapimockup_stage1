@@ -1,2 +1,0 @@
-users: gunicorn --access-logfile - --capture-output users:__hug_wsgi__
-timelines: gunicorn --access-logfile - --capture-output timelines:__hug_wsgi__
